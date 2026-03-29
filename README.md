@@ -42,20 +42,11 @@ Challenger produces two files per session:
 
 ## Installation
 
-Add the plugin to your Claude Code configuration. In your `~/.claude/settings.json`, add:
+In Claude Code, run:
 
-```json
-{
-  "plugins": [
-    "https://github.com/eranshir/challenger"
-  ]
-}
 ```
-
-Or install via the Claude Code CLI:
-
-```bash
-claude plugins add https://github.com/eranshir/challenger
+/plugin marketplace add eranshir/challenger
+/plugin install challenger@challenger
 ```
 
 ## Usage
