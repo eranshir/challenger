@@ -1,0 +1,15 @@
+{
+  "name": "challenger",
+  "description": "Truth-seeking sparring partner for Claude Code",
+  "owner": {
+    "name": "Eran Shir",
+    "url": "https://github.com/eranshir"
+  },
+  "plugins": [
+    {
+      "name": "challenger",
+      "description": "Challenges claims, decisions, and documents through structured dialectical analysis.",
+      "source": "./"
+    }
+  ]
+}
